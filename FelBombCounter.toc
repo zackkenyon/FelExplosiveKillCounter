@@ -1,0 +1,7 @@
+## Interface: 70300
+## Title: FelBombCounter
+## SavedVariablesPerCharacter: FelBombKillCounts
+## SavedVariables: FBCVerbose
+## Notes: testaddon
+FelBombCounter.lua
+FelBombCounter.xml
